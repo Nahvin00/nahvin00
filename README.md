@@ -1,4 +1,6 @@
-h2 { background:url(https://cliply.co/wp-content/uploads/2019/02/371812620_FIREWORKS_400.gif); }
+<div style="background-color:rgba(0, 0, 0, 0.0470588); text-align:center; vertical-align: middle; padding:40px 0;">
+<a href="/donate">DONATE</a>
+</div>
 ### Hi there, I'm Nahvin Muthusamy 👋
 #### _I'm a technology enthusiast._
 
