@@ -18,7 +18,7 @@
 
 ### 📫 How to reach me:
 
-[<img src="https://cliply.co/wp-content/uploads/2021/02/372102050_LINKEDIN_ICON_TRANSPARENT_400.gif" alt="drawing" width="100"/>](https://www.linkedin.com/in/nahvin00/)                   [<img src="https://cliply.co/wp-content/uploads/2019/07/371907300_INSTAGRAM_ICON_TRANSPARENT_400.gif" alt="drawing" width="100"/>](https://www.instagram.com/nah.vin/)
+[<img src="https://cliply.co/wp-content/uploads/2021/02/372102050_LINKEDIN_ICON_TRANSPARENT_400.gif" alt="drawing" width="100"/>](https://www.linkedin.com/in/nahvin00)                   [<img src="https://cliply.co/wp-content/uploads/2019/07/371907300_INSTAGRAM_ICON_TRANSPARENT_400.gif" alt="drawing" width="100"/>](https://www.instagram.com/nah.vin/)
 
 
 
