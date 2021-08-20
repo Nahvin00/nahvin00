@@ -3,7 +3,9 @@ I'm a technology enthusiast
 
 Interest:
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Arduino_Logo.svg/1024px-Arduino_Logo.svg.png" alt="drawing" width="75"/>&emsp;<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/2048px-Python-logo-notext.svg.png" alt="drawing" width="55"/>&emsp;<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png" alt="drawing" width="50"/><img src="https://1000logos.net/wp-content/uploads/2020/08/Visual-Studio-Logo.png" alt="drawing" width="95"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Arduino_Logo.svg/1024px-Arduino_Logo.svg.png" alt="drawing" width="75"/>&emsp;<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/2048px-Python-logo-notext.svg.png" alt="drawing" width="55"/>&emsp;<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png" alt="drawing" width="50"/><img src="https://cdn.freebiesupply.com/logos/thumbs/2x/kotlin-2-logo.png" alt="drawing" width="95"/>
+
+
 
 
 
