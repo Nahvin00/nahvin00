@@ -1,6 +1,3 @@
-<div style="background-color:rgba(0, 0, 100, 0.0470588); text-align:center; vertical-align: middle; padding:40px 0;">
-<a href="/donate">DONATE</a>
-</div>
 ### Hi there, I'm Nahvin Muthusamy 👋
 #### _I'm a technology enthusiast._
 
@@ -19,7 +16,7 @@
 
 📫 How to reach me:
 
-[<img src="https://cliply.co/wp-content/uploads/2021/02/372102050_LINKEDIN_ICON_TRANSPARENT_400.gif" alt="drawing" width="100"/>](https://www.linkedin.com/in/nahvin00/)                   [<img src="https://cliply.co/wp-content/uploads/2019/07/371907300_INSTAGRAM_ICON_TRANSPARENT_400.gif" alt="drawing" width="100"/>](https://www.instagram.com/nah.vin/)                   [<img src="https://cliply.co/wp-content/uploads/2019/03/371902260_SENDING_MAIL_400.gif" alt="drawing" width="100"/>](scnahvin@gmail.com)
+[<img src="https://cliply.co/wp-content/uploads/2021/02/372102050_LINKEDIN_ICON_TRANSPARENT_400.gif" alt="drawing" width="100"/>](https://www.linkedin.com/in/nahvin00/)                   [<img src="https://cliply.co/wp-content/uploads/2019/07/371907300_INSTAGRAM_ICON_TRANSPARENT_400.gif" alt="drawing" width="100"/>](https://www.instagram.com/nah.vin/)                   [<img src="https://cdn.dribbble.com/users/2113992/screenshots/14510264/gmail_animation.gif" alt="drawing" width="100"/>](scnahvin@gmail.com)
 
 
 
