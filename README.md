@@ -1,7 +1,7 @@
 ### Hi there, I'm Nahvin Muthusamy 👋
 I'm a technology enthusiast
 
-📫 How to reach me: ![Linkedin](https://www.linkedin.com/in/nahvin00/)
+📫 How to reach me: ![Linkedin](https://image.flaticon.com/icons/png/512/174/174857.png)
 
 <!--
 **Nahvin00/nahvin00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
