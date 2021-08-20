@@ -4,6 +4,11 @@ I'm a technology enthusiast
 📫 How to reach me: ![Linkedin](https://cliply.co/wp-content/uploads/2021/02/372102050_LINKEDIN_ICON_TRANSPARENT_400.gif)(https://www.linkedin.com/in/nahvin00/)
 <img src="https://cliply.co/wp-content/uploads/2021/02/372102050_LINKEDIN_ICON_TRANSPARENT_400.gif" alt="drawing" width="200"/>(https://www.linkedin.com/in/nahvin00/)
 
+
+[<img src="http://www.google.com.au/images/nav_logo7.png">](http://google.com.au/)
+
+[![Foo](http://www.google.com.au/images/nav_logo7.png)](http://google.com.au/)
+
 <!--
 **Nahvin00/nahvin00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
