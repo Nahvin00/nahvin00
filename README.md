@@ -3,7 +3,7 @@ I'm a technology enthusiast
 
 Interest:
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Arduino_Logo.svg/1024px-Arduino_Logo.svg.png" alt="drawing" width="75"/> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/2048px-Python-logo-notext.svg.png" alt="drawing" width="55"/> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png" alt="drawing" width="45"/>  <img src="https://www.edge-ai-vision.com/wp-content/uploads/2020/01/logo_mathworks.png" alt="drawing" width="100"/> <img src="https://www.rstudio.com/wp-content/uploads/2018/10/RStudio-Logo-Flat.png" alt="drawing" width="100"/> <img src="https://1000logos.net/wp-content/uploads/2020/08/Visual-Studio-Logo.png" alt="drawing" width="90"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Arduino_Logo.svg/1024px-Arduino_Logo.svg.png" alt="drawing" width="75"/>      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/2048px-Python-logo-notext.svg.png" alt="drawing" width="55"/>      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png" alt="drawing" width="45"/>      <img src="https://1000logos.net/wp-content/uploads/2020/08/Visual-Studio-Logo.png" alt="drawing" width="90"/>
 
 
 
