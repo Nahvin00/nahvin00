@@ -2,7 +2,8 @@
 I'm a technology enthusiast
 
 Interest:
-<img src="https://media2.giphy.com/media/a7Ik5hjrFQuxiPKFZO/giphy.gif?cid=790b7611ea4512e152265e42a9b7cc8bdb1bff1a0d24ec3f&rid=giphy.gif&ct=s" alt="drawing" width="100"/>
+
+<img src="https://media2.giphy.com/media/a7Ik5hjrFQuxiPKFZO/giphy.gif?cid=790b7611ea4512e152265e42a9b7cc8bdb1bff1a0d24ec3f&rid=giphy.gif&ct=s" alt="drawing" width="50"/>
 
 
 📫 How to reach me:
