@@ -3,7 +3,7 @@ I'm a technology enthusiast
 
 Interest:
 
-<img src="https://media2.giphy.com/media/a7Ik5hjrFQuxiPKFZO/giphy.gif?cid=790b7611ea4512e152265e42a9b7cc8bdb1bff1a0d24ec3f&rid=giphy.gif&ct=s" alt="drawing" width="75"/> <img src="https://i.pinimg.com/originals/ca/00/60/ca0060f3414e6e20b75983acddafad53.gif" alt="drawing" width="75"/> <img src="https://media2.giphy.com/media/a7Ik5hjrFQuxiPKFZO/giphy.gif?cid=790b7611ea4512e152265e42a9b7cc8bdb1bff1a0d24ec3f&rid=giphy.gif&ct=s" alt="drawing" width="75"/> 
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Arduino_Logo.svg/1024px-Arduino_Logo.svg.png" alt="drawing" width="75"/> <img src="https://i.pinimg.com/originals/ca/00/60/ca0060f3414e6e20b75983acddafad53.gif" alt="drawing" width="75"/> <img src="https://media2.giphy.com/media/a7Ik5hjrFQuxiPKFZO/giphy.gif?cid=790b7611ea4512e152265e42a9b7cc8bdb1bff1a0d24ec3f&rid=giphy.gif&ct=s" alt="drawing" width="75"/> 
 
 
 📫 How to reach me:
