@@ -1,5 +1,5 @@
 ## Hi there, I'm Nahvin Muthusamy 👋
-> #### _I'm a technology enthusiast who is getting more and more curious._
+> #### _I'm a COMPUTER SCIENTIST majoring in ARTIFICIAL INTELLIGENCE who is getting more and more curious._
 
 ***
 
